@@ -1,7 +1,0 @@
-#Mon Oct 04 12:49:23 CEST 2021
-base.1=/Users/ariakah/Documents/GitHub/P2_Lahcene_Florian/P2_01_rapportsinitiaux/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
-path.1=classes.dex
-base.0=/Users/ariakah/Documents/GitHub/P2_Lahcene_Florian/P2_01_rapportsinitiaux/app/build/intermediates/transforms/dexMerger/androidTest/debug/1
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=classes.dex

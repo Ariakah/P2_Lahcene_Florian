@@ -1,6 +1,8 @@
 package com.openclassrooms.magicgithub.api;
 
 import com.openclassrooms.magicgithub.model.User;
+
+import java.util.Arrays;
 import java.util.List;
 
 import static com.openclassrooms.magicgithub.api.FakeApiServiceGenerator.FAKE_USERS;
@@ -37,6 +39,6 @@ public class FakeApiService implements ApiService {
     @Override
     public void deleteUser(User user) {
         // TODO: A modifier
-        users.remove(0);
+        users.remove(user);
     }
 }
